@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1511028914 source:c:\users\damian\desktop\gabicw4\gabicw4\main.cpp
+	"AnalizatorSygnalu.h"
+	"Sygnal.h"
+	"Probka.h"
+	"SygnalLoader.h"
+	"SygnalSinusoidalny.h"
+	"SygnalProbkowany.h"
+	<iostream>
+	"math.h"
+
+1511028936 c:\users\damian\desktop\gabicw4\gabicw4\analizatorsygnalu.h
+	"SygnalProbkowany.h"
+	<iostream>
+
+1510343289 c:\users\damian\desktop\gabicw4\gabicw4\sygnal.h
+	"Probka.h"
+	<iostream>
+
+1509546923 c:\users\damian\desktop\gabicw4\gabicw4\probka.h
+	<iostream>
+
+1511048925 c:\users\damian\desktop\gabicw4\gabicw4\sygnalloader.h
+	"SygnalProbkowany.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
+1511028721 c:\users\damian\desktop\gabicw4\gabicw4\sygnalprobkowany.h
+	"Sygnal.h"
+	<iostream>
+	<vector>
+
+1511048973 c:\users\damian\desktop\gabicw4\gabicw4\sygnalsinusoidalny.h
+	"Sygnal.h"
+	<math.h>
+	<iostream>
+
